@@ -1,0 +1,4 @@
+1) name: Sakharuk Anastasiya
+2) age: 33
+3) pet: hamster
+4) salary: 350
