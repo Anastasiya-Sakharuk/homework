@@ -2,5 +2,10 @@
 	"name":"Sakharuk Anastasiya",
 	"age":33,
 	"pet":"hamster",
-	"salary":350
+	"salary":350,
+	"film":"What Dreams May Come",
+	"series":"Soderzhanki",
+	"food":"Сhocolate fondant",
+	"season":"Spring",
+	"country":"Greece"
 }
